@@ -1,3 +1,12 @@
 .navbar{
     background-color:  #2e9ca7;
 }
+.who-section{
+    background-color: #000000;
+}
+p, .title-who, .fa-solid{
+    color: #ffffff;
+}
+.icon-bg{
+    background-color: #3bb5d4;
+}

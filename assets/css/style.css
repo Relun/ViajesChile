@@ -5,9 +5,9 @@ body{
     background-color:  #2e9ca7;
 }
 
-h1, h2, h5, p, .fa-solid{
+h1, h2, h5, p, .fa-solid, .form-label, .btn, .fa-brands{
     color: #ffffff;
 }
-.icon-bg, .card-body{
+.icon-bg, .card-body, .btn, footer{
     background-color: #3bb5d4;
 }

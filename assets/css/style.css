@@ -3,6 +3,8 @@ body{
 }
 .navbar{
     background-color:  #2e9ca7;
+    /* z-index: 5; */
+    /* position: fixed; */
 }
 
 h1, h2, h5, p, .fa-solid, .form-label, .btn, .fa-brands{

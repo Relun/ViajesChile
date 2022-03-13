@@ -19,9 +19,6 @@ body {
 .btn {
   color: #ffffff;
 }
-.icon-bg, .card-body, .btn, footer {
-  background-color: #3bb5d4;
-}
 .img-size {
   max-height: 160px;
 }

@@ -1,15 +1,31 @@
-body{
-    background-color: #000000;
+html {
+  scroll-behavior: auto !important;
 }
-.navbar{
-    background-color:  #2e9ca7;
-    /* z-index: 5; */
-    /* position: fixed; */
+body {
+  background-color: #000000;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
 }
-
-h1, h2, h5, p, .fa-solid, .form-label, .btn, .fa-brands{
-    color: #ffffff;
+.navbar {
+  background-color: transparent;
+  position: fixed;
+  z-index: 2;
+  width: 100vw;
 }
-.icon-bg, .card-body, .btn, footer{
-    background-color: #3bb5d4;
+.logo {
+  width: 2rem;
+  padding-right: 1vw;
+}
+.btn {
+  color: #ffffff;
+}
+.icon-bg, .card-body, .btn, footer {
+  background-color: #3bb5d4;
+}
+.img-size {
+  max-height: 160px;
+}
+.fa-brands {
+  font-size: 2rem;
+  padding: 0 0.5rem;
 }
